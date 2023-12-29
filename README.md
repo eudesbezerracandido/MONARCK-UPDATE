@@ -8,6 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26af98d26edb62cee379af4084289dffc4025aae$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d183291e7e14925265cb20caacced565458b0d49$nome=EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a277aceabeb0850f8d6f500a5246b452228d05$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb921b42f9ee75edf55b995839ea29f31bf4e7ab$nome=EP.8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3IYqVM2jEHn8j9ZVETE0VcNvGoz.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> A Série é ambientada após a batalha entre Godzilla e os Titãs, revelando que os monstros são reais, segue a jornada de uma família para descobrir seus segredos enterrados e um legado que os liga ao Monarch.</info>
